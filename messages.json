@@ -13,6 +13,14 @@
 		"Ero distratto. Potresti ripetere per favore?",
 		"Oh no!Non ti ho sentito. Cosa dicevi?",
 		"Stavo leggendo, e non ti ascoltavo. Dicevi?"
+		"Scusa, sto pensando ad un gioco da fare insieme e non ti ascoltavo. Ripeti."
+		"Oggi mi annoio tantissimo. Scusa, cosa stavi dicendo?"
+		"Eh? Cosa hai detto?"
+		"Eh? Se volevi dirmi un segreto andavamo in un'altra stanza insieme. Ma qui devi parlare ad alta voce."
+		"Ops. Mi è sfuggito il concetto. Dicevi?"
+		"Eh?"
+		"mmmm. Non credo di aver capito."
+		"Penso che se vuoi ottenere una risposta devi ripetermi la domanda."
 	],
 	"io_first_hint": [
 		"Dimmi",
@@ -31,6 +39,7 @@
 	],
 	"io_hotword_training_tutorial": [
 		"Configurami"
+		"Diventiamo amici"
 	],
 	"io_hotword_training_ask_name": [
 		"Come ti chiami?"
@@ -50,5 +59,7 @@
 	],
 	"io_hotword_training_success": [
 		"Perfetto, ora puoi parlarmi!"
+		"Ecco. Ora siamo amici. Non bruciare questa opportunità, perché non ce ne saranno altre."
+		"Grazie! Sei stato davvero bravo"
 	]
 }
